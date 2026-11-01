@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-01 02:54:12",
+  "timestamp": "2026-11-01 12:11:47",
   "overview": {
     "total": 74,
-    "alive": 62,
-    "offline": 12,
-    "onlineRate": 83.8
+    "alive": 63,
+    "offline": 11,
+    "onlineRate": 85.1
   },
   "responseTime": {
-    "avg": 444.0,
-    "min": 63.94,
-    "max": 1264.24,
-    "median": 354.5
+    "avg": 648.9,
+    "min": 73.17,
+    "max": 1794.38,
+    "median": 561.56
   },
   "ratingDistribution": {
     "4.5-5.0": 11,
